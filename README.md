@@ -1,1 +1,1 @@
-<img src="https://github.com/chandradeoarya/dojo-jump/blob/master/kubernetes-memes.jpg?raw=true" alt="alt text" align="middle"/>
+<img src="https://github.com/chandradeoarya/kubernetes-memes/blob/master/kubernetes-memes.jpg?raw=true" alt="alt text" align="middle"/>
